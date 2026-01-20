@@ -15,7 +15,7 @@ class Rectangle {
         this.width = width;
     }
     public double getLength() {
-        return this.length
+        return this.length;
     }
     public double getWidth() {
         return this.width;
