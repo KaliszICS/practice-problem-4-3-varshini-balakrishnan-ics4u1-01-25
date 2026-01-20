@@ -3,11 +3,11 @@ class Chair {
     private String material;
     public Chair() {
         this.legs = 4;
-        this.material = wood;
+        this.material = "wood";
     }
     public Chair(int legs) {
         this.legs = legs;
-        this.material = wood;
+        this.material = "wood";
     }
     public Chair(int legs, String material) {
         this.legs = legs;
